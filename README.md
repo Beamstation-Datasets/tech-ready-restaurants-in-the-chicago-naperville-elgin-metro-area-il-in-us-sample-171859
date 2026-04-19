@@ -1,6 +1,6 @@
 # Tech-Ready Restaurants in the Chicago-Naperville-Elgin Metro Area, IL-IN, US
 
-> Free BeamStation sample export with 10 rows and masked direct-contact fields.
+> Free BeamStation sample export with 7 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `171859` |
 | Location | Chicago-Naperville-Elgin, IL-IN |
 | Category | Restaurants |
-| Full dataset size | 105 records |
-| Free sample size | 10 records (9.52%) |
-| Last export | 2026-04-08T05:47:00.200814+00:00 |
+| Full dataset size | 77 records |
+| Free sample size | 7 records (9.09%) |
+| Last export | 2026-04-15T09:46:56.766228+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-the-chicago-naperville-elgin-metro-area-il-in-us-sample-171859/releases/download/sample-latest/beamstation_171859_restaurants-us-chicagonapervilleelginilin_SAMPLE_DIST.csv) |
 
 ## What is in this sample
