@@ -1,12 +1,12 @@
 {
-  "export_job_id": "0797af1f-1605-4941-a6f3-f82f380e14a9",
+  "export_job_id": "0b1c3f26-c191-4faf-a098-16e9a2899a56",
   "id_short": 171859,
-  "published_at": "2026-04-11T07:04:00Z",
+  "published_at": "2026-04-19T07:20:25Z",
   "repo_name": "tech-ready-restaurants-in-the-chicago-naperville-elgin-metro-area-il-in-us-sample-171859",
   "sample_asset_name": "beamstation_171859_restaurants-us-chicagonapervilleelginilin_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/171859/beamstation_171859_restaurants-us-chicagonapervilleelginilin_SAMPLE_DIST.csv",
-  "sample_records": 10,
-  "sample_sha256": "4c108cd891d9ade74a6a947c0b0bb1508fea57274f5e1b5d89968d516b9fe45a",
-  "sample_size_bytes": 54324,
-  "total_records": 105
+  "sample_records": 7,
+  "sample_sha256": "36bf4036e08243a26add86e76dc5414957d66261a6d679a9fdccd751832db559",
+  "sample_size_bytes": 43684,
+  "total_records": 77
 }
